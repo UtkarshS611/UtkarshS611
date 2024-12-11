@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mentorat<br>🌱 I’m currently learning Backend development
+🔭 I’m currently working on Mentorat<br>🌱 I’m currently learning Backend development and learning AR/VR
 
 
 ## 🌐 Socials:
